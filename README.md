@@ -1,6 +1,6 @@
 # kconfig
 
-This kconfig is from the Linux kernel, retaining only the menuconfig implementation and adding configuration to specify the output locations.
+This kconfig is from the Linux kernel (linux-7.2.7), retaining only the menuconfig implementation and adding configuration to specify the output locations.
 
 * The additional configurations are as follows:
     * `--configpath`     : Specify the config path, default is '.config'
